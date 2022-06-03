@@ -1,6 +1,6 @@
 # Expandable Onchain SVG Image Storage
 
-[Paper](#Paper)
+[Paper](#Paper)  
 [Files](#Files)  
 [License](#License)
 
